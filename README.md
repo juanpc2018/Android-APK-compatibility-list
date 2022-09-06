@@ -1,5 +1,5 @@
 ### Android-APK-compatibility-list
-v1.00
+
 there are many ways to download, export, extract, transfer APKs
 but some versions work better than others...
 
