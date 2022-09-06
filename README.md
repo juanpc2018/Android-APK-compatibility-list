@@ -1,11 +1,14 @@
 ### Android-APK-compatibility-list
-
+v1.00
 there are many ways to download, export, extract, transfer APKs
 but some versions work better than others...
 
 Here is a Small List, contribute if you find the last version compatible for each Android OS version.
 old Android 7 phones are ARMv7 = 32-Bit
 all apks are phased out for the new ARMv8 64-Bits.
+
+Question is:
+¿How far can you go without purchasing a New phone?
 
 # Android 5 Lollipop
 
