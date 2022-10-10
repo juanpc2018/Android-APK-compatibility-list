@@ -138,3 +138,8 @@ Kernel v3.10.84
  XT9 v7.0.53
  Yahoo Mail v6.44.4
  YouTube 12.29.57
+
+
+Dune II The Building of a Dynasty v1.2.0 </br>
+https://dos.zone/dune-ii-the-building-of-a-dynasty-dec-1992/ </br>
+https://cdn.dos.zone/custom/dune2-1.2.0.apk </p>
