@@ -143,3 +143,7 @@ Kernel v3.10.84
 Dune II The Building of a Dynasty v1.2.0 </br>
 https://dos.zone/dune-ii-the-building-of-a-dynasty-dec-1992/ </br>
 https://cdn.dos.zone/custom/dune2-1.2.0.apk </p>
+
+Duke Nukem 3D </br>
+https://dos.zone/duke-nukem-3d-1996/ </br>
+https://play.google.com/store/apps/details?id=pfs.wwwplayer.duke3d </p>
